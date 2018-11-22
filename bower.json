@@ -1,0 +1,22 @@
+{
+  "name": "gdg_web",
+  "version": "0.0.0",
+  "homepage": "",
+  "authors": [
+    "Magno Portillo y Victor Velazquez"
+  ],
+  "license": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.3",
+    "bootstrap": "3.3",
+    "angular-route": "1.3",
+    "angular-resource": "1.3"
+  }
+}
